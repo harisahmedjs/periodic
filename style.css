@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+td{
+    border:1px solid black;
+    text-align:centre;
+    padding: 5px;
+}
